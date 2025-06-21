@@ -1,0 +1,5 @@
+2025-05-15 19:13:47 Error juego PPT en la línea 361: El valor introducido no es correcto. Valor recibido:jugarPiedra=a
+2025-05-15 19:13:49 Error juego PPT en la línea 361: El valor introducido no es correcto. Valor recibido:jugarPapel=b
+2025-05-15 19:13:50 Error juego PPT en la línea 361: El valor introducido no es correcto. Valor recibido:jugarTijera=c
+2025-05-15 19:14:36 Error juego Adivina en la línea 536: El valor introducido no es correcto. Valor recibido:prueba1
+2025-05-15 19:14:43 Error juego Adivina en la línea 536: El valor introducido no es correcto. Valor recibido:Cadena vacía
