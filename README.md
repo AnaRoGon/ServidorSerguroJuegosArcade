@@ -26,7 +26,7 @@ Pantalla de inicio de los juegos:
 
 ### Lanzar Dados
 
-![07](https://github.com/user-attachments/assets/982cf0be-a41d-40d4-a5da-526dd31df8f7)
+![07](https://github.com/user-attachments/assets/1ebef1cb-75f3-4c66-ab2e-06b696f3d967)
 
 ![08](https://github.com/user-attachments/assets/d7a136c8-4688-4d01-a3c6-c28437edf315)
 
