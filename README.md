@@ -10,6 +10,7 @@ Para mayor seguridad, los datos introducidos por el usuario se almacena en un fi
 ![00](https://github.com/user-attachments/assets/0dee0bc2-b7e4-4661-a17c-863d40bbfac2)
 
 Si se detecta que el usuario no está registrado se indica con un mensaje
+
 ![02](https://github.com/user-attachments/assets/c176a3f1-7623-4f42-9f12-fc9f2a028454)
 
 ![03](https://github.com/user-attachments/assets/a9b4b7e6-e222-41f0-b430-5857ba80b15e)
